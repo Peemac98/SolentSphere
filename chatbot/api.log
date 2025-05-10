@@ -1,0 +1,304 @@
+2025-04-16 11:01:02,284 - SolentSphere-API - INFO - ==================================================
+2025-04-16 11:01:02,284 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT API - STARTING UP
+2025-04-16 11:01:02,284 - SolentSphere-API - INFO - ==================================================
+2025-04-16 11:01:02,284 - SolentSphere-API - INFO - API started at: 2025-04-16 11:01:02
+2025-04-16 11:01:02,284 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 11:01:02,287 - SolentSphere-API - INFO - Starting API server on 0.0.0.0:5000
+2025-04-16 11:01:02,373 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.25:5000
+2025-04-16 11:01:02,373 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 11:01:02,379 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 11:01:06,947 - SolentSphere-API - INFO - ==================================================
+2025-04-16 11:01:06,947 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT API - STARTING UP
+2025-04-16 11:01:06,947 - SolentSphere-API - INFO - ==================================================
+2025-04-16 11:01:06,947 - SolentSphere-API - INFO - API started at: 2025-04-16 11:01:06
+2025-04-16 11:01:06,947 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 11:01:06,949 - SolentSphere-API - INFO - Starting API server on 0.0.0.0:5000
+2025-04-16 11:01:06,957 - werkzeug - WARNING -  * Debugger is active!
+2025-04-16 11:01:06,961 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-04-16 11:04:11,302 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 11:04:11] "[31m[1mGET /api/chat HTTP/1.1[0m" 405 -
+2025-04-16 11:04:27,687 - SolentSphere-API - INFO - Received message: hello
+2025-04-16 11:04:34,671 - SolentSphere-API - INFO - Response: Hello! I'm the Solent International Student Assistant. How can I help you today?
+2025-04-16 11:04:34,671 - SolentSphere-API - INFO - Response time: 6986ms
+2025-04-16 11:04:34,672 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 11:04:34] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 18:38:10,106 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abrah\\Desktop\\AI chatbot\\backend\\app.py', reloading
+2025-04-16 18:38:11,469 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 18:38:25,414 - SolentSphere-API - INFO - ==================================================
+2025-04-16 18:38:25,414 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 18:38:25,414 - SolentSphere-API - INFO - ==================================================
+2025-04-16 18:38:25,415 - SolentSphere-API - INFO - Application started at: 2025-04-16 18:38:25
+2025-04-16 18:38:25,415 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 18:38:25,439 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.78.174.37:5000
+2025-04-16 18:38:25,439 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 18:38:25,441 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 18:38:30,026 - SolentSphere-API - INFO - ==================================================
+2025-04-16 18:38:30,026 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 18:38:30,026 - SolentSphere-API - INFO - ==================================================
+2025-04-16 18:38:30,026 - SolentSphere-API - INFO - Application started at: 2025-04-16 18:38:30
+2025-04-16 18:38:30,027 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 18:38:30,036 - werkzeug - WARNING -  * Debugger is active!
+2025-04-16 18:38:30,042 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-04-16 18:38:44,264 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:38:44] "GET / HTTP/1.1" 200 -
+2025-04-16 18:38:44,284 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:38:44] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 18:38:44,385 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:38:44] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 18:38:44,730 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:38:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-16 18:38:50,801 - SolentSphere-API - INFO - Received message: hi
+2025-04-16 18:38:56,294 - SolentSphere-API - INFO - Response: Hi there! Welcome to Solent University. What information do you need?
+2025-04-16 18:38:56,294 - SolentSphere-API - INFO - Response time: 5493ms
+2025-04-16 18:38:56,295 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:38:56] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 18:39:21,464 - SolentSphere-API - INFO - Received message: i need some info on course registration
+2025-04-16 18:39:21,625 - SolentSphere-API - INFO - Response: To register, you'll need to complete online enrollment before arrival and then attend in-person registration to get your student ID card.
+2025-04-16 18:39:21,625 - SolentSphere-API - INFO - Response time: 161ms
+2025-04-16 18:39:21,626 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 18:39:21] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:27:03,507 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abrah\\Desktop\\AI chatbot\\backend\\app.py', reloading
+2025-04-16 19:27:06,623 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 19:32:05,692 - SolentSphere-API - INFO - ==================================================
+2025-04-16 19:32:05,693 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 19:32:05,693 - SolentSphere-API - INFO - ==================================================
+2025-04-16 19:32:05,693 - SolentSphere-API - INFO - Application started at: 2025-04-16 19:32:05
+2025-04-16 19:32:05,694 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 19:32:05,739 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.78.174.37:5000
+2025-04-16 19:32:05,739 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 19:32:05,744 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 19:32:14,727 - SolentSphere-API - INFO - ==================================================
+2025-04-16 19:32:14,727 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 19:32:14,728 - SolentSphere-API - INFO - ==================================================
+2025-04-16 19:32:14,728 - SolentSphere-API - INFO - Application started at: 2025-04-16 19:32:14
+2025-04-16 19:32:14,728 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 19:32:14,745 - werkzeug - WARNING -  * Debugger is active!
+2025-04-16 19:32:14,752 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-04-16 19:32:34,294 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:34] "GET / HTTP/1.1" 200 -
+2025-04-16 19:32:34,318 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:34] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:32:34,321 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:32:34,658 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:34] "GET /static/images/chatbot-illustration.svg HTTP/1.1" 200 -
+2025-04-16 19:32:34,729 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:34] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 19:32:40,485 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:40] "GET / HTTP/1.1" 200 -
+2025-04-16 19:32:40,560 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:32:40,644 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:40] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:32:40,781 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:40] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:32:40,899 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:32:51,631 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:51] "GET / HTTP/1.1" 200 -
+2025-04-16 19:32:51,735 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:32:51,791 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:51] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:32:51,869 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:51] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:32:52,055 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:32:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:31,249 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:31] "GET / HTTP/1.1" 200 -
+2025-04-16 19:34:31,275 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:34:31,279 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:31] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:34:31,280 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:31] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:34:31,344 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:32,879 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:32] "GET / HTTP/1.1" 200 -
+2025-04-16 19:34:32,947 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:32] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:34:32,979 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:32] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:34:33,005 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:33] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:34:33,389 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:47,459 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:47] "GET / HTTP/1.1" 200 -
+2025-04-16 19:34:47,640 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:34:47,644 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:47] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:34:47,647 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:47] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:34:48,153 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:48,929 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:48] "GET / HTTP/1.1" 200 -
+2025-04-16 19:34:48,961 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:34:48,970 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:48] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:34:48,972 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:48] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:34:49,275 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:49] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:54,498 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:54] "GET / HTTP/1.1" 200 -
+2025-04-16 19:34:54,702 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:34:54,849 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:54] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:34:56,015 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:34:56,015 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:34:56] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:36:05,904 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:05] "GET / HTTP/1.1" 200 -
+2025-04-16 19:36:05,946 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:36:05,987 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:05] "[33mGET /static/images/solent-logo.png HTTP/1.1[0m" 404 -
+2025-04-16 19:36:06,053 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:06] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:36:06,066 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:36:36,605 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:36] "GET / HTTP/1.1" 200 -
+2025-04-16 19:36:36,664 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:36:36,679 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:36] "GET /static/images/solent-logo.svg HTTP/1.1" 200 -
+2025-04-16 19:36:36,769 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:36] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:36:36,797 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:36:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:41:49,516 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:41:49] "GET / HTTP/1.1" 200 -
+2025-04-16 19:41:49,531 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:41:49] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:41:49,567 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:41:49] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 19:41:55,015 - SolentSphere-API - INFO - Received message: Course registration
+2025-04-16 19:42:01,365 - SolentSphere-API - INFO - Response: Registration for courses typically happens after general university registration. Your faculty will guide you through module selection.
+2025-04-16 19:42:01,369 - SolentSphere-API - INFO - Response time: 6350ms
+2025-04-16 19:42:01,371 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:42:01] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:43:00,047 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:00] "GET / HTTP/1.1" 200 -
+2025-04-16 19:43:00,063 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:00] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-16 19:43:00,069 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:43:58,321 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:58] "GET / HTTP/1.1" 200 -
+2025-04-16 19:43:58,339 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-04-16 19:43:58,373 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:43:58] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 19:44:58,712 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:44:58] "GET / HTTP/1.1" 200 -
+2025-04-16 19:44:58,725 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:44:58] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-16 19:44:58,730 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:44:58] "[36mGET /static/images/solent-logo.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:44:58,731 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:44:58] "[36mGET /static/images/chatbot-illustration.svg HTTP/1.1[0m" 304 -
+2025-04-16 19:44:58,788 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:44:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 19:45:25,977 - SolentSphere-API - INFO - Received message: Accommodation options
+2025-04-16 19:45:26,105 - SolentSphere-API - INFO - Response: Solent's accommodation ranges from en-suite rooms to shared facilities. Prices range from £120-£180 per week depending on the type. The Accommodation Office can provide current rates.
+2025-04-16 19:45:26,105 - SolentSphere-API - INFO - Response time: 128ms
+2025-04-16 19:45:26,107 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:45:26] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:45:43,409 - SolentSphere-API - INFO - Received message: hi
+2025-04-16 19:45:43,576 - SolentSphere-API - INFO - Response: Greetings! I'm here to help international students at Solent. What can I assist you with?
+2025-04-16 19:45:43,577 - SolentSphere-API - INFO - Response time: 167ms
+2025-04-16 19:45:43,577 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:45:43] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:47:20,664 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:47:20] "GET / HTTP/1.1" 200 -
+2025-04-16 19:47:20,692 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:47:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-16 19:47:20,698 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:47:20] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 19:47:28,475 - SolentSphere-API - INFO - Received message: hi
+2025-04-16 19:47:28,538 - SolentSphere-API - INFO - Response: Hello! I'm the Solent International Student Assistant. How can I help you today?
+2025-04-16 19:47:28,538 - SolentSphere-API - INFO - Response time: 63ms
+2025-04-16 19:47:28,538 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:47:28] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:47:35,587 - SolentSphere-API - INFO - Received message: Accommodation
+2025-04-16 19:47:35,841 - SolentSphere-API - INFO - Response: Solent offers various accommodation options including Chantry Student Village, Hamwic Student Village, and Kimber Student Village. Details are available at solent.ac.uk/accommodation.
+2025-04-16 19:47:35,842 - SolentSphere-API - INFO - Response time: 254ms
+2025-04-16 19:47:35,845 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:47:35] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:48:53,460 - SolentSphere-API - INFO - Received message: Visa information
+2025-04-16 19:48:53,601 - SolentSphere-API - INFO - Response: Solent's International Student Advisers can help with visa questions. Visit them at the Student Hub or email international.support@solent.ac.uk.
+2025-04-16 19:48:53,601 - SolentSphere-API - INFO - Response time: 141ms
+2025-04-16 19:48:53,602 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:48:53] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:49:05,622 - SolentSphere-API - INFO - Received message: Accommodation
+2025-04-16 19:49:05,807 - SolentSphere-API - INFO - Response: Solent's accommodation ranges from en-suite rooms to shared facilities. Prices range from £120-£180 per week depending on the type. The Accommodation Office can provide current rates.
+2025-04-16 19:49:05,807 - SolentSphere-API - INFO - Response time: 185ms
+2025-04-16 19:49:05,807 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:49:05] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:49:30,194 - SolentSphere-API - INFO - Received message: Healthcare
+2025-04-16 19:49:30,419 - SolentSphere-API - INFO - Response: If you need immediate medical attention, visit the campus health center or call 111 for non-emergency advice. For emergencies, call 999.
+2025-04-16 19:49:30,420 - SolentSphere-API - INFO - Response time: 225ms
+2025-04-16 19:49:30,421 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:49:30] "POST /api/chat HTTP/1.1" 200 -
+2025-04-16 19:50:13,671 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:50:13] "GET / HTTP/1.1" 200 -
+2025-04-16 19:50:13,688 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:50:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-16 19:50:13,689 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 19:50:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-16 20:02:05,790 - SolentSphere-API - INFO - ==================================================
+2025-04-16 20:02:05,791 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 20:02:05,792 - SolentSphere-API - INFO - ==================================================
+2025-04-16 20:02:05,792 - SolentSphere-API - INFO - Application started at: 2025-04-16 20:02:05
+2025-04-16 20:02:05,793 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 20:02:05,853 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.78.174.37:5000
+2025-04-16 20:02:05,853 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 20:02:05,858 - werkzeug - INFO -  * Restarting with stat
+2025-04-16 20:02:09,697 - SolentSphere-API - INFO - ==================================================
+2025-04-16 20:02:09,698 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-16 20:02:09,698 - SolentSphere-API - INFO - ==================================================
+2025-04-16 20:02:09,698 - SolentSphere-API - INFO - Application started at: 2025-04-16 20:02:09
+2025-04-16 20:02:09,700 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-16 20:02:09,722 - werkzeug - WARNING -  * Debugger is active!
+2025-04-16 20:02:09,732 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-04-16 20:02:25,718 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 20:02:25] "GET / HTTP/1.1" 200 -
+2025-04-16 20:02:25,850 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 20:02:25] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-16 20:02:25,893 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 20:02:25] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-04-16 20:02:26,034 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 20:02:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-16 20:02:31,785 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 20:02:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-20 12:42:29,167 - SolentSphere-API - INFO - ==================================================
+2025-04-20 12:42:29,171 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-20 12:42:29,172 - SolentSphere-API - INFO - ==================================================
+2025-04-20 12:42:29,177 - SolentSphere-API - INFO - Application started at: 2025-04-20 12:42:29
+2025-04-20 12:42:29,180 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-20 12:42:29,459 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.102:5000
+2025-04-20 12:42:29,461 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-20 12:42:29,475 - werkzeug - INFO -  * Restarting with stat
+2025-04-20 12:42:42,380 - SolentSphere-API - INFO - ==================================================
+2025-04-20 12:42:42,381 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-04-20 12:42:42,381 - SolentSphere-API - INFO - ==================================================
+2025-04-20 12:42:42,381 - SolentSphere-API - INFO - Application started at: 2025-04-20 12:42:42
+2025-04-20 12:42:42,381 - SolentSphere-API - INFO - --------------------------------------------------
+2025-04-20 12:42:42,399 - werkzeug - WARNING -  * Debugger is active!
+2025-04-20 12:42:42,406 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-04-20 12:42:42,471 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:42:42] "GET / HTTP/1.1" 200 -
+2025-04-20 12:42:42,957 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:42:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-04-20 12:42:42,967 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:42:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-20 12:42:43,029 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:42:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-20 12:43:28,552 - SolentSphere-API - INFO - Received message: hi
+2025-04-20 12:43:44,805 - SolentSphere-API - INFO - Response: Hi there! Welcome to Solent University. What information do you need?
+2025-04-20 12:43:44,805 - SolentSphere-API - INFO - Response time: 16254ms
+2025-04-20 12:43:44,806 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:43:44] "POST /api/chat HTTP/1.1" 200 -
+2025-04-20 12:44:13,696 - SolentSphere-API - INFO - Received message: how do i register my course
+2025-04-20 12:44:13,893 - SolentSphere-API - INFO - Response: International student registration happens during Welcome Week. Bring your passport, visa/BRP, and original qualifications. Visit solent.ac.uk/welcome for the schedule.
+2025-04-20 12:44:13,894 - SolentSphere-API - INFO - Response time: 197ms
+2025-04-20 12:44:13,895 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2025 12:44:13] "POST /api/chat HTTP/1.1" 200 -
+2025-05-09 03:10:24,013 - SolentSphere-API - INFO - ==================================================
+2025-05-09 03:10:24,016 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-09 03:10:24,016 - SolentSphere-API - INFO - ==================================================
+2025-05-09 03:10:24,016 - SolentSphere-API - INFO - Application started at: 2025-05-09 03:10:24
+2025-05-09 03:10:24,017 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-09 03:10:24,085 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.25:5000
+2025-05-09 03:10:24,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-09 03:10:24,089 - werkzeug - INFO -  * Restarting with stat
+2025-05-09 03:10:27,530 - SolentSphere-API - INFO - ==================================================
+2025-05-09 03:10:27,531 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-09 03:10:27,531 - SolentSphere-API - INFO - ==================================================
+2025-05-09 03:10:27,531 - SolentSphere-API - INFO - Application started at: 2025-05-09 03:10:27
+2025-05-09 03:10:27,532 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-09 03:10:27,550 - werkzeug - WARNING -  * Debugger is active!
+2025-05-09 03:10:27,558 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-05-09 03:14:03,081 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 03:14:03] "GET / HTTP/1.1" 200 -
+2025-05-09 03:14:03,256 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 03:14:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-09 03:14:03,278 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 03:14:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-09 03:14:05,227 - werkzeug - INFO - 127.0.0.1 - - [09/May/2025 03:14:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-10 01:50:19,698 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abrah\\Desktop\\AI chatbot\\chatbot\\training.py', reloading
+2025-05-10 01:50:20,774 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 01:50:49,110 - SolentSphere-API - INFO - ==================================================
+2025-05-10 01:50:49,111 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-10 01:50:49,112 - SolentSphere-API - INFO - ==================================================
+2025-05-10 01:50:49,113 - SolentSphere-API - INFO - Application started at: 2025-05-10 01:50:49
+2025-05-10 01:50:49,113 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-10 01:50:49,136 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 01:50:49,148 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-05-10 01:54:40,490 - werkzeug - INFO -  * Detected change in 'C:\\Users\\abrah\\Desktop\\AI chatbot\\chatbot\\training.py', reloading
+2025-05-10 01:54:41,325 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 01:54:47,842 - SolentSphere-API - INFO - ==================================================
+2025-05-10 01:54:47,843 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-10 01:54:47,843 - SolentSphere-API - INFO - ==================================================
+2025-05-10 01:54:47,843 - SolentSphere-API - INFO - Application started at: 2025-05-10 01:54:47
+2025-05-10 01:54:47,843 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-10 01:54:47,858 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 01:54:47,865 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-05-10 03:48:36,807 - SolentSphere-API - INFO - ==================================================
+2025-05-10 03:48:36,808 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-10 03:48:36,808 - SolentSphere-API - INFO - ==================================================
+2025-05-10 03:48:36,808 - SolentSphere-API - INFO - Application started at: 2025-05-10 03:48:36
+2025-05-10 03:48:36,808 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-10 03:48:36,886 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.25:5000
+2025-05-10 03:48:36,887 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 03:48:36,890 - werkzeug - INFO -  * Restarting with stat
+2025-05-10 03:48:40,178 - SolentSphere-API - INFO - ==================================================
+2025-05-10 03:48:40,179 - SolentSphere-API - INFO - SOLENTSPHERE CHATBOT - STARTING UP
+2025-05-10 03:48:40,179 - SolentSphere-API - INFO - ==================================================
+2025-05-10 03:48:40,179 - SolentSphere-API - INFO - Application started at: 2025-05-10 03:48:40
+2025-05-10 03:48:40,180 - SolentSphere-API - INFO - --------------------------------------------------
+2025-05-10 03:48:40,198 - werkzeug - WARNING -  * Debugger is active!
+2025-05-10 03:48:40,205 - werkzeug - INFO -  * Debugger PIN: 435-107-071
+2025-05-10 03:48:59,924 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:48:59] "GET / HTTP/1.1" 200 -
+2025-05-10 03:49:00,033 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:49:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 03:49:00,060 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:49:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-10 03:49:03,383 - SolentSphere-API - INFO - Received message: Visa information
+2025-05-10 03:49:11,050 - SolentSphere-API - INFO - Response: Solent's International Student Advisers can help with visa questions. Visit them at the Student Hub or email international.support@solent.ac.uk.
+2025-05-10 03:49:11,051 - SolentSphere-API - INFO - Response time: 7667ms
+2025-05-10 03:49:11,052 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:49:11] "POST /api/chat HTTP/1.1" 200 -
+2025-05-10 03:50:36,014 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:50:36] "GET / HTTP/1.1" 200 -
+2025-05-10 03:50:36,026 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:50:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-05-10 03:50:36,031 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:50:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-10 03:50:40,131 - SolentSphere-API - INFO - Received message: Accommodation
+2025-05-10 03:50:40,313 - SolentSphere-API - INFO - Response: Solent offers various accommodation options including Chantry Student Village, Hamwic Student Village, and Kimber Student Village. Details are available at solent.ac.uk/accommodation.
+2025-05-10 03:50:40,314 - SolentSphere-API - INFO - Response time: 182ms
+2025-05-10 03:50:40,316 - werkzeug - INFO - 127.0.0.1 - - [10/May/2025 03:50:40] "POST /api/chat HTTP/1.1" 200 -

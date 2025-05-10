@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+*.keras
+.DS_Store
+node_modules/

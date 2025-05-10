@@ -1,0 +1,345 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going", 
+        "good morning", "good afternoon", "good evening", "howdy"
+      ],
+      "responses": [
+        "Hello! I'm the Solent International Student Assistant. How can I help you today?",
+        "Hi there! Welcome to Solent University. What information do you need?",
+        "Greetings! I'm here to help international students at Solent. What can I assist you with?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "see ya", "see you later", "bye", "goodbye", "have a nice day", "bye bye", 
+        "that's all", "thanks bye", "exit", "end"
+      ],
+      "responses": [
+        "Goodbye! Feel free to come back if you have more questions about Solent University.",
+        "See you later. Have a great day at Solent!",
+        "Bye! Don't hesitate to ask if you need more information about student life at Solent."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you", "thanks", "appreciate it", "thank you so much", "thanks a lot",
+        "that's helpful", "you've been helpful"
+      ],
+      "responses": [
+        "You're welcome! Is there anything else I can help with?",
+        "Happy to help! Any other questions about Solent?",
+        "My pleasure! Let me know if you need more information about student life at Solent."
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name", "who are you", "what should I call you", "who am I talking to"
+      ],
+      "responses": [
+        "I'm the Solent International Student Assistant, designed to help international students navigate university life.",
+        "I'm your virtual assistant for international students at Solent University.",
+        "You can call me SISA - Solent International Student Assistant!"
+      ]
+    },
+    {
+      "tag": "visa_info",
+      "patterns": [
+        "visa", "student visa", "visa requirements", "visa application", "how to get a visa",
+        "visa extension", "visa problems", "visa office", "tier 4", "student visa status",
+        "BRP", "biometric residence permit"
+      ],
+      "responses": [
+        "For visa information, you should contact Solent's International Student Support team at international.support@solent.ac.uk. They can provide guidance on Tier 4/Student visas, BRPs, and visa extensions.",
+        "Solent's International Student Advisers can help with visa questions. Visit them at the Student Hub or email international.support@solent.ac.uk.",
+        "Visa requirements depend on your country of origin. The International Student Support team can provide personalized advice for your situation."
+      ]
+    },
+    {
+      "tag": "accommodation",
+      "patterns": [
+        "where to live", "accommodation", "student halls", "dorms", "private accommodation",
+        "rent", "housing", "student housing", "residence", "staying", "living on campus",
+        "off-campus housing", "accommodation cost"
+      ],
+      "responses": [
+        "Solent offers various accommodation options including Chantry Student Village, Hamwic Student Village, and Kimber Student Village. Details are available at solent.ac.uk/accommodation.",
+        "As an international student, you're guaranteed accommodation if you apply by the deadline. Contact accommodation@solent.ac.uk for specific questions.",
+        "Solent's accommodation ranges from en-suite rooms to shared facilities. Prices range from £120-£180 per week depending on the type. The Accommodation Office can provide current rates."
+      ]
+    },
+    {
+      "tag": "registration",
+      "patterns": [
+        "how to register", "enrollment", "registration process", "student registration",
+        "course registration", "sign up for classes", "module selection", "enroll",
+        "student ID", "university card"
+      ],
+      "responses": [
+        "International student registration happens during Welcome Week. Bring your passport, visa/BRP, and original qualifications. Visit solent.ac.uk/welcome for the schedule.",
+        "To register, you'll need to complete online enrollment before arrival and then attend in-person registration to get your student ID card.",
+        "Registration for courses typically happens after general university registration. Your faculty will guide you through module selection."
+      ]
+    },
+    {
+      "tag": "tuition_fees",
+      "patterns": [
+        "tuition", "fees", "cost", "tuition fees", "pay fees", "payment deadline",
+        "installments", "fee payment", "how much is tuition", "scholarships",
+        "financial aid", "funding", "student loans"
+      ],
+      "responses": [
+        "International student tuition fees vary by course, typically between £13,000-£16,000 per year for undergraduate and £14,000-£18,000 for postgraduate programs. Check solent.ac.uk/international-fees for exact figures.",
+        "You can pay tuition fees in full or in installments. The first payment is due during registration. Contact student.funding@solent.ac.uk for payment options.",
+        "Solent offers some scholarships for international students. Visit solent.ac.uk/international-scholarships to see if you qualify."
+      ]
+    },
+    {
+      "tag": "orientation",
+      "patterns": [
+        "orientation", "induction", "welcome week", "international orientation",
+        "first week", "getting started", "new student orientation"
+      ],
+      "responses": [
+        "International student orientation usually takes place the week before regular Welcome Week. You'll receive details by email with dates and schedule.",
+        "Orientation includes campus tours, registration sessions, and social events to help you settle in. Don't miss it!",
+        "International orientation will help you meet other students, learn about support services, and complete important paperwork. Check your university email for details."
+      ]
+    },
+    {
+      "tag": "campus_facilities",
+      "patterns": [
+        "campus facilities", "library", "gym", "sports center", "computer labs",
+        "study spaces", "cafeteria", "food", "restaurants", "coffee shop",
+        "printing", "wifi", "internet access"
+      ],
+      "responses": [
+        "Solent's main campus facilities include the Mountbatten Library, Sports Complex, Student Union, multiple cafes, and computer labs across campus.",
+        "The Mountbatten Library is open 24/7 during term time and offers study spaces, computers, and resources. Your student ID gives you access.",
+        "Campus wifi is available throughout university buildings. Connect to 'Solent' network using your student login credentials."
+      ]
+    },
+    {
+      "tag": "healthcare",
+      "patterns": [
+        "healthcare", "doctor", "medical", "health insurance", "NHS", "hospital",
+        "sick", "illness", "health services", "register with doctor", "GP",
+        "mental health", "counseling"
+      ],
+      "responses": [
+        "International students on courses longer than 6 months can access the NHS. You should register with a local GP (doctor) when you arrive. The university can help you find one.",
+        "Solent offers wellbeing services including counseling and mental health support. Visit solent.ac.uk/wellbeing or email wellbeing@solent.ac.uk.",
+        "If you need immediate medical attention, visit the campus health center or call 111 for non-emergency advice. For emergencies, call 999."
+      ]
+    },
+    {
+      "tag": "transportation",
+      "patterns": [
+        "transportation", "bus", "train", "getting around", "public transport",
+        "student discount", "oyster card", "travel card", "cycling", "bike",
+        "how to get to", "directions"
+      ],
+      "responses": [
+        "Southampton has good bus and train connections. Students get discounts with a valid ID. The Unilink bus service connects university campuses and popular student areas.",
+        "You can get a student railcard for 1/3 off train travel. Apply online or at the train station with proof of student status.",
+        "Many students cycle in Southampton. The university has secure bike storage facilities on campus."
+      ]
+    },
+    {
+      "tag": "banking",
+      "patterns": [
+        "bank account", "banking", "open account", "money", "transfer money",
+        "international transfer", "currency exchange", "ATM", "cash"
+      ],
+      "responses": [
+        "International students can open UK bank accounts. You'll need your passport, visa/BRP, and university acceptance letter. Major banks near campus include Santander, HSBC, and NatWest.",
+        "The university sometimes arranges bank representatives on campus during orientation to help international students open accounts.",
+        "To transfer money internationally, services like TransferWise or your bank's international transfer service are commonly used. Check fees before sending money."
+      ]
+    },
+    {
+      "tag": "working",
+      "patterns": [
+        "work", "part-time job", "student job", "working hours", "work permit",
+        "employment", "career services", "internship", "placement", "CV", "resume"
+      ],
+      "responses": [
+        "International students on Tier 4/Student visas can typically work up to 20 hours per week during term time and full-time during holidays. Check your visa for specific restrictions.",
+        "Solent's Employability Service can help you find part-time work. They offer job listings, CV advice, and interview preparation.",
+        "On-campus jobs are posted through the Student Union and university job portal. These are convenient and understand your academic commitments."
+      ]
+    },
+    {
+      "tag": "cultural_adjustment",
+      "patterns": [
+        "homesick", "culture shock", "cultural adjustment", "making friends",
+        "lonely", "social activities", "international society", "clubs", "societies"
+      ],
+      "responses": [
+        "Culture shock is normal! The International Student Society organizes events to help you meet people and adjust to life in the UK.",
+        "Join student clubs and societies through the Student Union to meet people with similar interests. There are over 100 to choose from!",
+        "The university organizes regular cultural and social events for international students. Check the events calendar on the student portal."
+      ]
+    },
+    {
+      "tag": "academic_support",
+      "patterns": [
+        "academic support", "study help", "tutoring", "academic skills", "writing help",
+        "assignments", "exams", "study groups", "learning support", "academic advisor",
+        "English language support", "IELTS"
+      ],
+      "responses": [
+        "Solent offers academic support through the Success Skills team. They provide workshops and one-to-one help with academic writing, research, and study skills.",
+        "International students can access additional English language support through in-sessional classes. Contact succeed@solent.ac.uk for details.",
+        "Your course leader or academic advisor can provide subject-specific support. Don't hesitate to email them or visit during office hours."
+      ]
+    },
+    {
+      "tag": "student_union",
+      "patterns": [
+        "student union", "SU", "student activities", "student representation", 
+        "clubs", "societies", "events", "student government"
+      ],
+      "responses": [
+        "Solent Student Union organizes events, runs clubs and societies, and represents student interests. Visit solentsu.co.uk for more information.",
+        "The Student Union building contains social spaces, a cafe, and offices for various student services. It's a great place to meet people!",
+        "You can join any of the Student Union's clubs and societies throughout the year. They have everything from sports to cultural groups to academic societies."
+      ]
+    },
+    {
+      "tag": "complaints",
+      "patterns": [
+        "complaint", "problem", "issue", "unhappy", "not satisfied", "report issue",
+        "dispute", "appeal", "grievance"
+      ],
+      "responses": [
+        "If you have a complaint, first try to resolve it with the relevant department. If that doesn't work, the Student Hub can guide you through the formal complaints procedure.",
+        "For academic appeals or complaints, consult your course handbook for the proper procedure or speak with your course representative.",
+        "The university takes student feedback seriously. You can also raise issues through your course rep or the Student Union."
+      ]
+    },
+    {
+      "tag": "graduation",
+      "patterns": [
+        "graduation", "graduate", "ceremony", "degree certificate", "transcript",
+        "alumni", "after graduation", "commencement"
+      ],
+      "responses": [
+        "Graduation ceremonies usually take place in July and November. Details are sent to your university email a few months before.",
+        "International students can request letter confirmations for visa purposes if they need to stay for graduation after their course ends.",
+        "After graduation, you can join the Solent Alumni network to stay connected and access certain university resources."
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "weather", "climate", "temperature", "seasons", "rain", "snow", "cold",
+        "what to wear", "what clothes to bring"
+      ],
+      "responses": [
+        "Southampton has a mild climate. Summers (June-August) average 16-22°C, while winters (December-February) range from 2-10°C. Rain is common year-round, so bring a waterproof jacket!",
+        "UK weather can change quickly, so layering clothes is recommended. Winters require a warm coat, gloves, and umbrella.",
+        "The academic year spans different seasons, so bring a variety of clothing. Most buildings are heated in winter, but older accommodations can sometimes feel drafty."
+      ]
+    },
+    {
+      "tag": "holidays",
+      "patterns": [
+        "holidays", "breaks", "term dates", "academic calendar", "vacation",
+        "christmas break", "easter break", "reading week", "when are holidays"
+      ],
+      "responses": [
+        "The main university breaks are Christmas (mid-December to early January), Easter (usually 3-4 weeks in March/April), and summer (June to September). Check solent.ac.uk/term-dates for exact dates.",
+        "During university holidays, most campus facilities operate with reduced hours. International students can stay in university accommodation during Christmas and Easter breaks.",
+        "Some courses may have reading weeks mid-semester. Check your specific course calendar for these shorter breaks."
+      ]
+    },
+    {
+      "tag": "local_area",
+      "patterns": [
+        "southampton", "local area", "things to do", "city center", "shopping",
+        "restaurants", "attractions", "beaches", "parks", "entertainment",
+        "places to visit", "nightlife"
+      ],
+      "responses": [
+        "Southampton is a vibrant city with shopping at WestQuay, historical sites like the Medieval Walls, and green spaces like Southampton Common. The waterfront area is popular for restaurants and views.",
+        "Nearby attractions include the New Forest National Park, historic Winchester, and beaches at Bournemouth (30 minutes by train).",
+        "The city has a diverse range of restaurants, cinemas, theaters, and nightlife. Check out Bedford Place and Oxford Street for popular student venues."
+      ]
+    },
+    {
+      "tag": "safety",
+      "patterns": [
+        "safety", "security", "emergency", "police", "safe areas", "dangerous areas",
+        "campus security", "emergency contacts", "safety tips"
+      ],
+      "responses": [
+        "Southampton is generally safe, but like any city, be aware of your surroundings. Campus security is available 24/7 at 023 8031 9999 for emergencies.",
+        "The UK emergency number is 999 for police, fire, or ambulance. For non-emergencies, call 101 for police or 111 for health advice.",
+        "All university accommodations have security features. If you live off-campus, ensure your housing has proper locks and don't leave valuables visible."
+      ]
+    },
+    {
+      "tag": "covid",
+      "patterns": [
+        "covid", "coronavirus", "pandemic", "covid restrictions", "covid testing",
+        "vaccination", "face masks", "quarantine", "isolation", "online classes"
+      ],
+      "responses": [
+        "For the most current COVID-19 information and university protocols, please check solent.ac.uk/covid or email covid.support@solent.ac.uk.",
+        "If you're experiencing COVID-19 symptoms, please follow current UK health guidelines and notify the university through the student portal.",
+        "International students should check both UK government and their home country requirements for travel and vaccination status."
+      ]
+    },
+    {
+      "tag": "library_services",
+      "patterns": [
+        "library", "books", "borrow", "return", "library hours", "study space",
+        "resources", "journals", "databases", "research", "library fine"
+      ],
+      "responses": [
+        "The Mountbatten Library is open 24/7 during term time. You can borrow books using your student ID card at the self-service machines.",
+        "The library provides access to physical and digital resources, including books, journals, and databases. Library staff can help with research queries.",
+        "You can book study rooms and computer facilities through the library website. Quiet study areas are available on certain floors."
+      ]
+    },
+    {
+      "tag": "internet_it",
+      "patterns": [
+        "wifi", "internet", "wifi password", "connecting", "computer", "IT support",
+        "software", "printing", "email", "student account", "password reset"
+      ],
+      "responses": [
+        "Connect to 'Solent' WiFi using your student ID and password. Coverage extends across campus buildings and university accommodation.",
+        "For IT issues, contact the IT Service Desk at 023 8031 9999 or visit them on the ground floor of the library.",
+        "Students get free access to Office 365 and other software. Log in with your student email at portal.office.com."
+      ]
+    },
+    {
+      "tag": "disability_support",
+      "patterns": [
+        "disability", "learning difficulty", "dyslexia", "accessibility", "special needs",
+        "adjustments", "DSA", "Disabled Students' Allowance", "support"
+      ],
+      "responses": [
+        "Solent's Access Solent team provides support for students with disabilities or learning difficulties. Contact them at access@solent.ac.uk to discuss your needs.",
+        "You may be eligible for Disabled Students' Allowance (DSA) to cover study-related costs. The Access team can help with applications.",
+        "If you need learning adjustments for exams or assignments, contact Access Solent as early as possible to arrange this."
+      ]
+    },
+    {
+      "tag": "default",
+      "patterns": [],
+      "responses": [
+        "I'm not sure I understand. Could you rephrase your question about Solent University?",
+        "I don't have information on that specific topic yet. You might want to check the Solent University website or contact the International Student Support team.",
+        "I'm still learning! Could you ask me something about common international student topics like accommodation, visas, or campus facilities?"
+      ]
+    }
+  ]
+}
